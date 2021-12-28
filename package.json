@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "minecraft-launcher-core": "^3.16.11",
+    "msmc": "^3.0.3"
+  }
+}

@@ -1,0 +1,10 @@
+{
+	"version": {
+		"number": "1.18.1",
+		"type": "release"
+	},
+	"memory": {
+		"max": "6G",
+		"min": "4G"
+	}
+}
