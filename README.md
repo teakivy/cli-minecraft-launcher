@@ -4,8 +4,9 @@ Change instance.json to choose a different version
 
 ## How to Use
 - In CMD/Powershell locate this folder
-- Run "node index.js"
-- Done! Keep the CMD window open
+- Run "npm install" to install all dependencies
+- Run "node index.js" to start the game
+- Done! Keep this window open
 
 ## Important
 
